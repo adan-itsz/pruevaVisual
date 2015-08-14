@@ -9,5 +9,8 @@ namespace pruevas
     class Class1
     {
         //esta es una modificacion al codigo base 
+        public void prueva(){
+            int variable =2;
+        }
     }
 }
