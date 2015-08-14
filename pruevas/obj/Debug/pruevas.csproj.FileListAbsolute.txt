@@ -1,0 +1,9 @@
+c:\users\adan\documents\visual studio 2013\Projects\pruevas\pruevas\bin\Debug\pruevas.exe.config
+c:\users\adan\documents\visual studio 2013\Projects\pruevas\pruevas\bin\Debug\pruevas.exe
+c:\users\adan\documents\visual studio 2013\Projects\pruevas\pruevas\bin\Debug\pruevas.pdb
+c:\users\adan\documents\visual studio 2013\Projects\pruevas\pruevas\obj\Debug\pruevas.csprojResolveAssemblyReference.cache
+c:\users\adan\documents\visual studio 2013\Projects\pruevas\pruevas\obj\Debug\pruevas.exe
+c:\users\adan\documents\visual studio 2013\Projects\pruevas\pruevas\obj\Debug\pruevas.pdb
+C:\Users\adan\Documents\pruevas\pruevas\bin\Debug\pruevas.exe.config
+C:\Users\adan\Documents\pruevas\pruevas\obj\Debug\pruevas.exe
+C:\Users\adan\Documents\pruevas\pruevas\obj\Debug\pruevas.pdb
